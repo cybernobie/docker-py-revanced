@@ -1,5 +1,5 @@
 beautifulsoup4==4.12.3
-environs==11.2.0
+environs==11.2.1
 gdown @ git+https://github.com/nikhilbadyal/gdown
 google-play-scraper==1.2.7
 lastversion==3.5.7
@@ -9,4 +9,4 @@ pre-commit==4.0.1
 python-dotenv==1.0.1
 pytz==2024.2
 requests==2.32.3
-tqdm==4.67.0
+tqdm==4.67.1
